@@ -253,7 +253,6 @@ class OrbisPublishingTools:
     def progNameSuffix():
         return " - Beta"
 
-    # Aggiungi altri metodi per gli altri comandi necessari
 
     @staticmethod
     def load_pkg_file(fname):
@@ -265,10 +264,9 @@ class OrbisPublishingTools:
 
     @staticmethod
     def load_pfs_file(fname):
-        # Implementa il comando appropriato per i file PFS
+
         pass
 
     @staticmethod
     def load_dat_file(fname):
-        # Implementa il comando appropriato per i file DAT
         pass
