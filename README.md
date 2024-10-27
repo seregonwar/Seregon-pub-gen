@@ -1,4 +1,9 @@
-**Seregon Publishing Tools**
+# ⚠️ Important Notice
+
+This application is a component of the **PkgToolBox** project and will soon be integrated into the main application. Currently, it is under development and testing. Please refrain from reporting issues here; instead, report any functionality problems directly in the main project. 
+
+
+# Seregon Publishing Tools
 
 **Seregon Publishing Tools** is a desktop application developed in Python, using PyQt5, designed for managing and creating Pkg packages for ps4.
 
