@@ -1,6 +1,6 @@
 # ⚠️ Important Notice
 
-This application is a component of the **PkgToolBox** project and will soon be integrated into the main application. Currently, it is under development and testing. Please refrain from reporting issues here; instead, report any functionality problems directly in the main project. 
+This application is a component of the **PkgToolBox** project and will soon be integrated into the main application. Currently, it is under development and testing. Please refrain from reporting issues here; instead, report any functionality problems directly in the main project. You can still use this application individually; it does not use dependencies tied to **PkgToolBox**.
 
 
 # Seregon Publishing Tools
